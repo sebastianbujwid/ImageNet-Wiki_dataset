@@ -60,13 +60,18 @@ For the details of how articles’ text is extracted and processed, please refer
 
 [Project website and paper](https://bujwid.eu/p/zsl-imagenet-wiki)
 
-```
-@inproceedings{bujwid2021large,
-    title     = {Large-Scale Zero-Shot Image Classification from Rich and Diverse Textual Descriptions},
-    author    = {Sebastian Bujwid and Josephine Sullivan},
-    booktitle = {LANTERN},
-    year      = {2021},
-    note      = {to appear},
-    pubstate  = {forthcoming},
+```bib
+@inproceedings{bujwid-sullivan-2021-large,
+    title = "Large-Scale Zero-Shot Image Classification from Rich and Diverse Textual Descriptions",
+    author = "Bujwid, Sebastian  and
+      Sullivan, Josephine",
+    booktitle = "Proceedings of the Third Workshop on Beyond Vision and LANguage: inTEgrating Real-world kNowledge (LANTERN)",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.lantern-1.4",
+    pages = "38--52",
+    abstract = "We study the impact of using rich and diverse textual descriptions of classes for zero-shot learning (ZSL) on ImageNet. We create a new dataset ImageNet-Wiki that matches each ImageNet class to its corresponding Wikipedia article. We show that merely employing these Wikipedia articles as class descriptions yields much higher ZSL performance than prior works. Even a simple model using this type of auxiliary data outperforms state-of-the-art models that rely on standard features of word embedding encodings of class names. These results highlight the usefulness and importance of textual descriptions for ZSL, as well as the relative importance of auxiliary data type compared to the algorithmic progress. Our experimental results also show that standard zero-shot learning approaches generalize poorly across categories of classes.",
 }
 ```
