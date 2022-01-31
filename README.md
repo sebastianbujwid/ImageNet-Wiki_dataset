@@ -8,7 +8,7 @@ We also share both the corresponding Wikipedia article titles; and extracted and
 The content of the Wikipedia articles comes from `enwiki-20200120`
 (20 Jan 2020) dump of English Wikipedia, downloaded from [Wikimedia Downloads page](https://dumps.wikimedia.org/).
 The original version of the dump that we have used is available for download:
-[Original Wikipedia dump we have used](https://kth.box.com/s/0omtdfafycz7cb6kh3lxx16lxny4v9ni).
+[Original Wikipedia dump we have used](https://kth-my.sharepoint.com/:f:/g/personal/bujwid_ug_kth_se/EtzGiqtVzoxCrwDLxumH7PIBT-EE8nLmj03kE78R8zHlEg?e=7KUP8O).
 
 ### License
 
