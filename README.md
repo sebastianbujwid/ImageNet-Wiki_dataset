@@ -3,12 +3,17 @@
 ImageNet-Wiki Dataset contains a set of correspondences between ImageNet classes (1000 standard classes from ILSVRC 2012 + 500 classes from _mp500_ from "ImageNet-21K") and Wikipedia articles.
 We also share both the corresponding Wikipedia article titles; and extracted and parsed text from the articles for convenience.
 
+<a href="https://bujwid.eu/p/zsl-imagenet-wiki">
+<img alt="ImageNet-Wiki dataset diagram" src="./ImageNet-Wiki_dataset.svg"/>
+</a>
+
 ## Wikipedia articles
 
 The content of the Wikipedia articles comes from `enwiki-20200120`
 (20 Jan 2020) dump of English Wikipedia, downloaded from [Wikimedia Downloads page](https://dumps.wikimedia.org/).
 The original version of the dump that we have used is available for download:
-[Original Wikipedia dump we have used](https://kth-my.sharepoint.com/:f:/g/personal/bujwid_ug_kth_se/EtzGiqtVzoxCrwDLxumH7PIBT-EE8nLmj03kE78R8zHlEg?e=7KUP8O).
+[Original Wikipedia dump we have used](
+https://kth-my.sharepoint.com/:f:/g/personal/bujwid_ug_kth_se/EtzGiqtVzoxCrwDLxumH7PIBT-EE8nLmj03kE78R8zHlEg?e=SAssMK).
 
 ### License
 
