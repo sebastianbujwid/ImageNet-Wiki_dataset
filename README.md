@@ -57,7 +57,7 @@ Example:
 }
 ```
 
-For the details of how articles’ text is extracted and processed, please refer to [zsl_imagenet_text repo](https://github.com/sebastianbujwid/zsl_imagenet_text).
+For the details of how articles’ text is extracted and processed, please refer to  [zsl_text_imagenet repo](https://github.com/sebastianbujwid/zsl_text_imagenet).
 
 ## Citation
 
